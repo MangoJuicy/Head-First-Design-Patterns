@@ -1,4 +1,4 @@
-package headfirst.designpatterns.strategy;
+package headfirst.designpatterns.strategy.model;
 
 public class ModelDuck extends Duck {
 	public ModelDuck() {

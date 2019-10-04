@@ -1,4 +1,4 @@
-package headfirst.designpatterns.strategy;
+package headfirst.designpatterns.behaviors.quack;
 
 public class Squeak implements QuackBehavior {
 	public void quack() {
